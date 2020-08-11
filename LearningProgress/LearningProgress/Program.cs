@@ -6,7 +6,7 @@ namespace LearningProgress
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("This is changed ! pls check it");
         }
     }
 }
